@@ -1,1 +1,52 @@
 /* Styles */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+:root {
+    --min-text-footer-color:#f3fbff ;
+    --min-outline-color:#d2d2d2 ;
+    --min-background-color: #f7f7f7;
+    --min-background-dark-color:#163c70 ;
+    --min-placehold-color: #dedede;
+    --min-placehold-color2:#bfbfbf ;
+    --min-text-color:#626262 ;
+    --min-title-color:#363636 ;
+    --min-green-color:#25e6c8 ;
+    --min-blue-color:#2baaec ;
+
+    --min-slider-title: 
+
+
+}
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }  
+.font-slider-title {
+    font-family: 'Roboto Slab', serif;
+    font-size: 60pt;
+    line-height:70pt;
+}  
+.font-header {
+    font-family: 'Roboto Slab', serif;
+    font-size: 40pt;
+    line-height: 50pt;
+}
+font-header-small {
+    font-family: 'Roboto Slab', serif;
+    font-size: 22pt;
+    line-height: 30pt;
+}
+font-header-cta {
+    font-family: 'Roboto Slab', serif;
+    font-size: 30pt;
+    line-height: 40pt;
+}
+.font-text {
+    font-family: 'Roboto Slab', serif;
+    font-size: 18pt;
+    line-height: 28pt;
+}
