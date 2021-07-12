@@ -91,6 +91,7 @@ font-text-footer {
 #appointment {
     height: 220px;
     background-color: var(--min-blue-color);
+    opacity: 0.8;
     color: white;
     
     
@@ -106,9 +107,12 @@ font-text-footer {
     border-color: var(--min-green-color);
     border-width:2px ;
 }
+
+/* DEDEDE */
 #footer-year {
     height: 81px;
     background-color: var(--min-blue-color);
+    
     
 }
 #footer-year a {
